@@ -1,6 +1,6 @@
 /*main.c*/
 #include <stdio.h>
-#include "testOne.h"
+#include "./lib/testOne.h"
 
 void main() {
 	int a;
